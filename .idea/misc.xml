@@ -3,9 +3,10 @@
   <component name="ExternalStorageConfigurationManager" enabled="true" />
   <component name="FrameworkDetectionExcludesConfiguration">
     <file type="web" url="file://$PROJECT_DIR$/api-gateway" />
+    <file type="web" url="file://$PROJECT_DIR$/auth-service" />
     <file type="web" url="file://$PROJECT_DIR$/discovery-service" />
-    <file type="web" url="file://$PROJECT_DIR$/inventory" />
     <file type="web" url="file://$PROJECT_DIR$/order" />
+    <file type="web" url="file://$PROJECT_DIR$/profile" />
   </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="corretto-18" project-jdk-type="JavaSDK" />
 </project>

@@ -1,13 +1,13 @@
-package com.microservice.inventory;
+package com.microservice.authservice;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class InventoryApplication {
+public class AuthServiceApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(InventoryApplication.class, args);
+		SpringApplication.run(AuthServiceApplication.class, args);
 	}
 
 }
